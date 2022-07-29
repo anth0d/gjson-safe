@@ -1,4 +1,4 @@
-module github.com/tidwall/gjson
+module github.com/anth0d/gjson-safe
 
 go 1.12
 

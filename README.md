@@ -11,6 +11,8 @@
 
 <p align="center">get json values quickly</a></p>
 
+# This package may be deleted without notice, it is currently only being used in a prototype.
+
 GJSON is a Go package that provides a [fast](#performance) and [simple](#get-a-value) way to get values from a json document.
 It has features such as [one line retrieval](#get-a-value), [dot notation paths](#path-syntax), [iteration](#iterate-through-an-object-or-array), and [parsing json lines](#json-lines).
 
